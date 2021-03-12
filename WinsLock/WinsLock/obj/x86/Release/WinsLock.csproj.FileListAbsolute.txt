@@ -1,0 +1,10 @@
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\bin\Release\WinsLock.exe
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\bin\Release\WinsLock.pdb
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\WinsLock.MainForm.resources
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\WinsLock.LockForm.resources
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\WinsLock.Properties.Resources.resources
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\WinsLock.exe
+C:\Documents and Settings\mike9k\OneDrive\Documents\MIS310\Projects\WinsLock\WinsLock\obj\x86\Release\WinsLock.pdb
