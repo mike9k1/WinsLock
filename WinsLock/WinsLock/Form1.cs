@@ -91,8 +91,13 @@ namespace WinsLock
                 }
                 catch (ArgumentException ex)
                 {
-                    MessageBox.Show("Invalid screensaver selection -- please try again", "Invalid Color");
-                    return;
+                    //'MessageBox.Show("Invalid screensaver selection -- please try again", "Invalid Color")
+                    //'Return
+                    lf.BackColor = Color.Black;
+                }
+                catch (NullReferenceException ex)
+                {
+                    lf.BackColor = Color.Black;
                 }
 
                 lf.Start(sender, e, txtPassword.Text.toSecureString());
